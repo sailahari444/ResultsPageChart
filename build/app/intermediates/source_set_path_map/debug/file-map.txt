@@ -1,0 +1,12 @@
+com.example.fl_line_chart_example.app-jetified-window-java-1.0.0-beta04-0 C:\Users\saila\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.fl_line_chart_example.app-jetified-annotation-experimental-1.1.0-1 C:\Users\saila\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.fl_line_chart_example.app-jetified-window-1.0.0-beta04-2 C:\Users\saila\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.fl_line_chart_example.app-core-1.6.0-3 C:\Users\saila\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.fl_line_chart_example.app-debug-4 D:\Downloads\fl_line_chart_example\fl_line_chart_example\android\app\src\debug\res
+com.example.fl_line_chart_example.app-main-5 D:\Downloads\fl_line_chart_example\fl_line_chart_example\android\app\src\main\res
+com.example.fl_line_chart_example.app-pngs-6 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\generated\res\pngs\debug
+com.example.fl_line_chart_example.app-resValues-7 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\generated\res\resValues\debug
+com.example.fl_line_chart_example.app-rs-8 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\generated\res\rs\debug
+com.example.fl_line_chart_example.app-mergeDebugResources-9 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.fl_line_chart_example.app-mergeDebugResources-10 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.fl_line_chart_example.app-merged_res-11 D:\Downloads\fl_line_chart_example\fl_line_chart_example\build\app\intermediates\merged_res\debug
